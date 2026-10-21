@@ -2,7 +2,7 @@
 I am a PhD student at Trinity College Dublin (TCD) in Ireland (2023-2027).
 My work lies in Computational Number Theory. I am especially interested in explicit 2-descent for Jacobians of general curves and Theta Characteristics.
 
-Visit my [institution page](https://www.maths.tcd.ie/people/mismet/)
+Visit my [institution page](https://www.maths.tcd.ie/people/mismet/).
 
 ## Contact
 You can contact me at mismet a t tcd.ie
