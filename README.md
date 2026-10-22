@@ -8,6 +8,12 @@ Visit my [institution page](https://www.maths.tcd.ie/people/mismet/).
 You can contact me at mismet a t tcd.ie
 
 ## Articles
+- Computing Shafarevich-like groups $\mathbb{Q}$ afforded by 2-torsion representations of curves <br />
+To appear
+- Explicit generalized 2-descent on Jacobians of non-hyperelliptic curves of moderate genus <br />
+To appear
+- Computing Theta Characteristics and their Galois action on general curves of moderate genus
+  - arXiv:2610.29449   ([arXiv link](https://arxiv.org/abs/2610.29449))
 - A trick to ensure positive Mordell-Weil rank <br />
   - arXiv:2603.04100v3  ([arXiv link](https://doi.org/10.48550/arXiv.2603.04100)) <br />
   - Journal: Thibaut Misme. A trick to ensure positive Mordell–Weil rank. Polynesian Journal of Mathematics, Volume 4, Issue 15, Pages 1–14. (Sept. 2026) DOI: 10.69763/polyjmath.4.15 <br />
